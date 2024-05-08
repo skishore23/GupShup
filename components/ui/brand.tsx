@@ -10,6 +10,6 @@ interface BrandProps {
 
 export const Brand: FC<BrandProps> = ({ theme = "dark" }) => {
   return (
-      <div className="text-4xl font-bold tracking-wide">GupShup</div>
+      <div className="text-4xl font-bold tracking-wide">GUP</div>
   )
 }
